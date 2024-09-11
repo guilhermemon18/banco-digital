@@ -1,0 +1,22 @@
+# Ignorar arquivos gerados pelo Eclipse
+.project
+.classpath
+.settings/
+target/
+bin/
+
+# Ignorar arquivos de build ferramentas
+build/
+dist/
+
+# Ignorar arquivos de cache
+.metadata/
+.cache/
+
+# Ignorar arquivos de configuração de IDE
+*.suo
+*.user
+*.ni
+
+# Ignorar arquivos de backup
+*~
